@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Emir Behçet Muhammed</h1>
 <h3 align="center">Passionate about coding, exploring new technologies, and building innovative solutions. Fullstack developer, lifelong learner, and open-source enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=behcetmuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="behcetmuhammed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behcetmuhammed" alt="behcetmuhammed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [PatikaPlus Bootcamp](https://github.com/behcetmuhammed/PatikaPlus)
 
 - 👨‍💻 All of my projects are available at [https://github.com/behcetmuhammed?tab=repositories](https://github.com/behcetmuhammed?tab=repositories)
