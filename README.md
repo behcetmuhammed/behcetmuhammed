@@ -1,4 +1,4 @@
-[![MasterHead](http:https://media.licdn.com/dms/image/D4D16AQHAZmq3H5z5xw/profile-displaybackgroundimage-shrink_350_1400/0/1685387431327?e=1719446400&v=beta&t=EJ5xb7QIWArX-8otPixm2wyhvdelcBM_RJoU5P8N14Q)
+[![MasterHead](http://media.licdn.com/dms/image/D4D16AQHAZmq3H5z5xw/profile-displaybackgroundimage-shrink_350_1400/0/1685387431327?e=1719446400&v=beta&t=EJ5xb7QIWArX-8otPixm2wyhvdelcBM_RJoU5P8N14Q)
 <h1 align="center">Hi 👋, I'm Emir Behçet Muhammed</h1>
 <h3 align="center">Passionate about coding, exploring new technologies, and building innovative solutions. Fullstack developer, lifelong learner, and open-source enthusiast.</h3>
 
