@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emir-muhammed/](https://www.linkedin.com/in/emir-muhammed/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/behcetmuhammed?theme=unicorn)
 
 # 📝 Connect With Me:
 <p align="left">
@@ -73,10 +72,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+# 📈 Online Platform Statistics (LeetCode, HackerRank etc.):
+![Leetcode Stats](https://leetcard.jacoblin.cool/behcetmuhammed?theme=unicorn)
 
-# 📄 Github Statistics:
+# 📄 Github and  Statistics:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behcetmuhammed&show_icons=true&locale=en" alt="behcetmuhammed" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behcetmuhammed&" alt="behcetmuhammed" /></p>
 
 
