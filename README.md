@@ -1,4 +1,7 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGYP6E8oRTx1w/profile-displaybackgroundimage-shrink_350_1400/0/1715562165297?e=1721260800&v=beta&t=5xpTpC6mg39XKOjNPrRtM760O3LMOAH-EsXQvT2eHPA)
+<!-- ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGYP6E8oRTx1w/profile-displaybackgroundimage-shrink_350_1400/0/1715562165297?e=1721260800&v=beta&t=5xpTpC6mg39XKOjNPrRtM760O3LMOAH-EsXQvT2eHPA) -->
+
+![Açıklayıcı Metin](github.png)
+
 ![](https://komarev.com/ghpvc/?username=behcetmuhammed&color=blue)
 <h1 align="center">Hi 👋, I'm Emir Behçet Muhammed</h1>
 
