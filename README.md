@@ -75,14 +75,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-# 📈 Online Platform Statistics (LeetCode, HackerRank etc.):
-![Leetcode Stats](https://leetcard.jacoblin.cool/behcetmuhammed?theme=unicorn)
-
-# 📄 Github and  Statistics:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behcetmuhammed&show_icons=true&locale=en" alt="behcetmuhammed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behcetmuhammed&" alt="behcetmuhammed" /></p>
-
-
 # 🌱 Me and My World:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behcetmuhammed/behcetmuhammed/output/github-contribution-grid-snake-dark.svg">
