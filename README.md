@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Emir Behçet Muhammed
+# Hi 👋, I'm Emir Behçet Muhammed
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Shopify+%26+Ikas+Expert;Computer+Engineer;Creative+Web+Solutions" alt="Typing SVG" />
