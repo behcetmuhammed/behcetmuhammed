@@ -1,4 +1,4 @@
-# Hi 👋, I'm Emir Behçet Muhammed
+# 💫 Hi 👋, I'm Emir Behçet Muhammed
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Shopify+%26+Ikas+Expert;Computer+Engineer;Creative+Web+Solutions" alt="Typing SVG" />
@@ -40,12 +40,6 @@ I am a **Computer Engineer**, graduated as the **valedictorian (top of my class)
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=behcetmuhammed&show_icons=true&theme=visual_studio_code&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=behcetmuhammed&theme=visual_studio_code" />
-</p>
-
 ### 🌱 My Contribution World
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behcetmuhammed/behcetmuhammed/output/github-contribution-grid-snake-dark.svg">
@@ -59,5 +53,6 @@ I am a **Computer Engineer**, graduated as the **valedictorian (top of my class)
 <p align="left">
 <a href="mailto:emiraydemirsyr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/emir-muhammed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="tel:+905063652029"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/behcetmuhammed"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
