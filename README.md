@@ -6,8 +6,6 @@
 </div>
 
 ### 👨‍💻 About Me
-I am a **Computer Engineer**, graduated as the **valedictorian (top of my class)** from Fenerbahçe University. Currently, I work as a Full Stack Developer at **Retodi**, specializing in high-end digital experiences and custom e-commerce solutions.
-
 I am a **Computer Engineer** and **valedictorian graduate** of **Fenerbahçe University**, currently working as a **Full Stack Developer** at **Retodi** where I build high-performance themes for **Shopify, Ikas, and WordPress**, focusing on scalable systems while blending minimalist design with interactive elements.
 
 ---
