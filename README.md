@@ -8,10 +8,7 @@
 ### 👨‍💻 About Me
 I am a **Computer Engineer**, graduated as the **valedictorian (top of my class)** from Fenerbahçe University. Currently, I work as a Full Stack Developer at **Retodi**, specializing in high-end digital experiences and custom e-commerce solutions.
 
-- 🚀 **Specialty:** Building custom, high-performance themes for **Shopify, Ikas, and WordPress**.
-- 🎓 **Education:** Computer Engineering (Honors Graduate).
-- 🛠️ **Current Focus:** Advanced frontend architectures and scalable backend systems.
-- ⚡ **Fun Fact:** I love blending minimalist design with interactive, gamified elements.
+I am a **Computer Engineer** and **valedictorian graduate** of **Fenerbahçe University**, currently working as a **Full Stack Developer** at **Retodi** where I build high-performance themes for **Shopify, Ikas, and WordPress**, focusing on scalable systems while blending minimalist design with interactive elements.
 
 ---
 
@@ -45,7 +42,3 @@ I am a **Computer Engineer**, graduated as the **valedictorian (top of my class)
 <p align="left">
 <a href="mailto:emiraydemirsyr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/emir-muhammed/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="tel:+905063652029" target="_blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-📞 **Direct Call:** <a href="tel:+905063652029" target="_blank">0506 365 2029</a>
